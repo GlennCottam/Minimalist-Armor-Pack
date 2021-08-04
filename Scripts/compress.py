@@ -12,7 +12,8 @@ def compress():
     sp = subprocess.Popen(cmd, stderr=subprocess.STDOUT, stdout=subprocess.PIPE)
     print("Resource Pack Compressed to /out")
 
-
-os.chdir('../1.16.5/')
+current_path()
+os.chdir('1.16.5/')
+current_path()
 compress()
 
