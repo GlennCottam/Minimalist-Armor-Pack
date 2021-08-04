@@ -1,4 +1,4 @@
-# Minimlist Armor Pack
+# Minimalist Armor Pack
 
 ![pack.png](GimpFiles/pack.png)
 
@@ -9,7 +9,7 @@ Comes with unique textures for all types of armor.
 ---
 # Table of Contents
 
-- [Minimlist Armor Pack](#minimlist-armor-pack)
+- [Minimalist Armor Pack](#minimlist-armor-pack)
 - [Table of Contents](#table-of-contents)
   - [Current Progress](#current-progress)
     - [Diamond Armor](#diamond-armor)
