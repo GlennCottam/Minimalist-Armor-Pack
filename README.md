@@ -1,6 +1,6 @@
 # Minimalist Armor Pack
 
-![pack.png](GimpFiles/pack.png)
+![pack.png](1.16.5/pack.png)
 
 The pack that allows you to see your skin though your armor. Mostly.
 
