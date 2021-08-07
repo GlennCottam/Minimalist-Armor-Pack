@@ -12,8 +12,9 @@ Comes with unique textures for all types of armor.
 - [Minimalist Armor Pack](#minimalist-armor-pack)
 - [Table of Contents](#table-of-contents)
   - [Current Progress](#current-progress)
-    - [Diamond Armor](#diamond-armor)
+    - [Iron Armor](#iron-armor)
     - [Gold Armor](#gold-armor)
+    - [Diamond Armor](#diamond-armor)
 - [Contributors](#contributors)
   - [Compresser (`Scripts/compress.py`)](#compresser-scriptscompresspy)
 
@@ -22,17 +23,21 @@ Comes with unique textures for all types of armor.
 
 - [x] Diamond
 - [x] Gold
+- [x] Iron
 - [ ] Netherite
-- [ ] Iron
 - [ ] Leather
 - [ ] Piglin Leather
 - [ ] Turtle
 - [ ] Chainmail
 
-### Diamond Armor
-![Diamond Armor Showcase](img/Diamond_Armor.png)
+### Iron Armor
+![Iron Armor Showcase](img/Iron_Armor.png)
+
 ### Gold Armor
 ![Golden Armor Showcase](img/Gold_Armor.png)
+### Diamond Armor
+![Diamond Armor Showcase](img/Diamond_Armor.png)
+
 
 
 # Contributors
