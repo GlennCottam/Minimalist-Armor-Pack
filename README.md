@@ -2,29 +2,41 @@
 
 ![pack.png](1.16.5/pack.png)
 
-The pack that allows you to see your skin though your armor. Mostly.
-
-Comes with unique textures for all types of armor.
-
 ---
 # Table of Contents
 
 - [Minimalist Armor Pack](#minimalist-armor-pack)
 - [Table of Contents](#table-of-contents)
+- [Requirements](#requirements)
+- [Description](#description)
   - [Current Progress](#current-progress)
     - [Iron Armor](#iron-armor)
     - [Gold Armor](#gold-armor)
     - [Diamond Armor](#diamond-armor)
+    - [Netherite Armor](#netherite-armor)
 - [Contributors](#contributors)
   - [Compresser (`Scripts/compress.py`)](#compresser-scriptscompresspy)
 
+# Requirements
+- Optifine
+- Shaders Optional, but recommended
+
+
+# Description
+The Minimalist Armor Pack is designed to allow others to see your skin, while also showing what armor you are wearing.
+
+Rather than getting rid of all of the armor textures, I have decied to design and create new textures for the existing Minecraft armor.
+
+This resource pack does require Optifine, as it uses PBR. You do not need to use a shader pack with it, however doing so does make it look awesome!
+
+Each set of armor when in use with a shader pack, will either shine in the light with a mirror finish, or glow in the dark.
 
 ## Current Progress
 
 - [x] Diamond
 - [x] Gold
 - [x] Iron
-- [ ] Netherite
+- [x] Netherite
 - [ ] Leather
 - [ ] Piglin Leather
 - [ ] Turtle
@@ -37,6 +49,9 @@ Comes with unique textures for all types of armor.
 ![Golden Armor Showcase](img/Gold_Armor.png)
 ### Diamond Armor
 ![Diamond Armor Showcase](img/Diamond_Armor.png)
+
+### Netherite Armor
+![Netherite Armor Showcase](img/Netherite_Armor.png)
 
 
 

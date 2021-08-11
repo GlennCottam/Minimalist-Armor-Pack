@@ -1,7 +1,7 @@
 import subprocess
 import os
 vr = "1.16.5/"
-cmd = ['7z', 'a', '../out/MinimalistArmorPack-1.16.5.zip', 'assets', 'pack.mcmeta', 'pack.png']
+cmd = ['7z', 'a', '../out/MinimalistArmorPack.zip', 'assets', 'pack.mcmeta', 'pack.png']
 
 def current_path():
     print("Current working directory")

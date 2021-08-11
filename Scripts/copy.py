@@ -2,7 +2,7 @@ import subprocess
 import os
 import shutil
 
-to = 'C:/Users/glenn/curseforge/minecraft/Instances/Minimalist_Armor_Testing/resourcepacks/MinimalistArmorPack-1.16.5.zip'
+to = 'C:/Users/glenn/curseforge/minecraft/Instances/Minimalist_Armor_Testing/resourcepacks/MinimalistArmorPack.zip'
 
 def current_path():
     print("Current working directory")
@@ -11,7 +11,7 @@ def current_path():
 
 def copy():
     print("Copying resource pack to: " + to)
-    shutil.copy('./out/MinimalistArmorPack-1.16.5.zip', to)
+    shutil.copy('./out/MinimalistArmorPack.zip', to)
     print("Copy finished")
 
 copy()
